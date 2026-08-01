@@ -1,0 +1,7 @@
+function P = logisticFun(beta,t)
+
+K = beta(1);
+A = beta(2);
+r = beta(3);
+
+P = K./(1+A.*exp(-r.*t));
