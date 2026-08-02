@@ -1,0 +1,6 @@
+Country,Population (people),Population Growth Rate (1/year),Annual Electricity Consumption (MWh/year),Electricity Consumption Per Capita (MWh/person/year),Electricity Access Rate (%),Land Area Available for Solar (km²),Population Density (people/km²),Energy Budget (USD),Budget Growth Rate,Target Reliability (%),Planning Horizon (Years)
+Kenya,57532493,0.019575,12400000,0.2196,0.762,5691,101,1200000000,0.045,0.9,20
+Bangladesh,175686899,0.012146,116200000,0.6029,0.995,260,1350,1400000000,0.035,0.9,25
+Vietnam,102627017,0.006313,278600000,0.27468,0.998,930,317,10000000000,0.071,0.9,25
+Bolivia,12581843,0.013721,10500000,0.8443,0.998,16250,12,860000000,-0.033,0.9,25
+Ethiopia,135472051,0.025835,17300000,0.113,0.554,10000,126,2000000000,0.062,0.9,25

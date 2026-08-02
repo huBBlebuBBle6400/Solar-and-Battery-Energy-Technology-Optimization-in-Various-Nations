@@ -1,0 +1,4 @@
+Solar Technology,Solar Panel Efficiency (decimal),Solar Cost (USD/MW),Round-Trip Efficiency (decimal),Solar Lifetime (years),Solar Degradation Rate (%/year),Solar Density (MW/km²) 
+Perovskite-Silicon Tandem,0.25,430000,0.25,25,0.9,50
+Polycrystalline Silicon,0.2,150000,0.2,30,0.5,35
+Monocrystalline Silicon,0.225,180000,0.225,30,0.4,40

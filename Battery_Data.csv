@@ -1,0 +1,7 @@
+Battery type,Battery Cost (USD/MWh),Energy Density (MWh/kg),Round-Trip Efficiency (% or decimal),Cycle Life (cycles),Calendar Life (years),Depth of Discharge (%) ,Capacity Degradation Rate (%/year),Cost per MWh installed (USD)
+Lithium Iron Phosphate (LFP),115000,0.00016,0.95,6000,15,0.9,0.02,110000
+Lithium Nickel Manganese Cobalt (NMC),130000,0.00025,0.94,3000,12,0.9,0.025,135000
+Lithium Nickel Cobalt Aluminum (NCA),140000,0.00028,0.94,2500,10,0.9,0.03,145000
+Sodium-Ion,90000,0.00014,0.92,3000,10,0.9,0.025,100000
+Solid-State Lithium,200000,0.0004,0.97,8000,20,0.95,0.01,250000
+Lithium-Sulfur,180000,0.00045,0.9,1000,8,0.8,0.05,180000
